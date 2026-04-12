@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">İmar uygulamaları görseli</title>
+  <desc id="desc">Ada-parsel planı, imar blokları ve süreç şeması içeren görsel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#e0edf2"/>
+      <stop offset="100%" stop-color="#f6f1e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="680" rx="36" fill="url(#bg)"/>
+  <rect x="52" y="56" width="510" height="568" rx="30" fill="#fff" stroke="#d7e0e7" stroke-width="6"/>
+  <g fill="#d8b889" opacity=".95">
+    <rect x="102" y="126" width="126" height="110" rx="14"/>
+    <rect x="246" y="126" width="126" height="110" rx="14"/>
+    <rect x="390" y="126" width="122" height="110" rx="14"/>
+    <rect x="102" y="254" width="270" height="120" rx="14"/>
+    <rect x="390" y="254" width="122" height="120" rx="14"/>
+    <rect x="102" y="392" width="194" height="152" rx="14"/>
+    <rect x="314" y="392" width="198" height="152" rx="14"/>
+  </g>
+  <g fill="#7aa8b8" opacity=".95">
+    <rect x="246" y="126" width="40" height="418" rx="12"/>
+    <rect x="102" y="284" width="410" height="30" rx="10"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="6" opacity=".82">
+    <path d="M266 126v418"/>
+    <path d="M102 299h410"/>
+  </g>
+  <g transform="translate(614 96)">
+    <rect width="224" height="138" rx="24" fill="#173446"/>
+    <path d="M30 42h110" stroke="#dcecf6" stroke-width="6"/>
+    <path d="M30 74h156" stroke="#dcecf6" stroke-width="5" opacity=".55"/>
+    <rect x="30" y="96" width="70" height="18" rx="9" fill="#73143a"/>
+  </g>
+  <g transform="translate(614 278)">
+    <rect width="224" height="260" rx="24" fill="#fff" stroke="#d7e0e7" stroke-width="6"/>
+    <circle cx="68" cy="72" r="18" fill="#73143a"/>
+    <circle cx="68" cy="130" r="18" fill="#b58f56"/>
+    <circle cx="68" cy="188" r="18" fill="#7aa8b8"/>
+    <path d="M108 72h84M108 130h64M108 188h92" stroke="#27475b" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

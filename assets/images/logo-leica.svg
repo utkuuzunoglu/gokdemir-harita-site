@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" role="img" aria-label="Leica Geosystems">
+  <rect width="320" height="120" rx="22" fill="#fff"/>
+  <rect x="18" y="18" width="284" height="84" rx="16" fill="#d71920"/>
+  <text x="160" y="68" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#fff">Leica</text>
+  <text x="160" y="92" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3" fill="#fff">GEOSYSTEMS</text>
+</svg>

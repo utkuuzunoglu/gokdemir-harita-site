@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">İletişim sayfası konum görseli</title>
+  <desc id="desc">Kastamonu merkez ofis konumu için pin, yol ağı ve iletişim kartı illüstrasyonu.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#173446"/>
+      <stop offset="100%" stop-color="#27475b"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="680" rx="36" fill="url(#bg)"/>
+  <g opacity=".2" fill="none" stroke="#dcecf6" stroke-width="5">
+    <path d="M88 128c108 4 210 42 314 40 146-2 220-89 344-85 47 2 92 16 120 34"/>
+    <path d="M74 226c87 10 175 38 282 36 171-2 238-74 404-67"/>
+    <path d="M120 324c81 9 163 36 262 36 152 0 240-60 372-55"/>
+    <path d="M164 420c68 8 128 27 212 27 124 0 213-48 319-47"/>
+  </g>
+  <g transform="translate(170 130)">
+    <rect width="290" height="378" rx="26" fill="#f5f1e8"/>
+    <path d="M46 74h152" stroke="#27475b" stroke-width="8" stroke-linecap="round"/>
+    <path d="M46 116h198" stroke="#7e97a5" stroke-width="6" stroke-linecap="round"/>
+    <path d="M46 162h206" stroke="#7e97a5" stroke-width="6" stroke-linecap="round"/>
+    <path d="M46 208h144" stroke="#7e97a5" stroke-width="6" stroke-linecap="round"/>
+    <rect x="46" y="260" width="136" height="40" rx="20" fill="#73143a"/>
+  </g>
+  <g transform="translate(542 110)">
+    <path d="M110 0c61 0 110 49 110 110 0 86-110 216-110 216S0 196 0 110C0 49 49 0 110 0Z" fill="#73143a"/>
+    <circle cx="110" cy="110" r="44" fill="#f5f1e8"/>
+    <circle cx="110" cy="110" r="18" fill="#27475b"/>
+  </g>
+  <g transform="translate(548 448)">
+    <rect width="198" height="88" rx="20" fill="#f5f1e8"/>
+    <path d="M34 34h130" stroke="#27475b" stroke-width="8" stroke-linecap="round"/>
+    <path d="M34 58h86" stroke="#7e97a5" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>

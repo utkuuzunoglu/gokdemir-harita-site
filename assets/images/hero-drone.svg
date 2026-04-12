@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Drone ile haritalama illüstrasyonu</title>
+  <desc id="desc">Arazi üzerinde uçan drone, kontur çizgileri ve analiz panelleri içeren teknik görsel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#153446"/>
+      <stop offset="60%" stop-color="#27546a"/>
+      <stop offset="100%" stop-color="#1f2b35"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="18%" r="42%">
+      <stop offset="0%" stop-color="#d8eef8" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#d8eef8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#sun)"/>
+  <g fill="none" stroke="#9dd2e4" stroke-width="3" opacity=".24">
+    <path d="M0 692c135-37 277-35 402-8s240 80 359 70 205-79 306-110 209-24 533 48"/>
+    <path d="M0 748c130-34 262-34 386-10s245 75 362 67 210-71 320-95 225-15 532 38"/>
+    <path d="M78 560c101-22 202-35 318-22s210 50 332 52 216-44 327-73 224-34 428 14"/>
+  </g>
+  <g transform="translate(153 525)">
+    <path d="M0 120c165-63 262-76 422-56 132 16 210 45 336 43 160-2 257-59 389-71 110-11 198 8 300 61v278H0Z" fill="#8e6c44"/>
+    <path d="M0 157c121-43 224-58 357-43s218 57 347 61 234-38 360-55 223-8 383 50" fill="none" stroke="#ceb38d" stroke-width="4" opacity=".42"/>
+  </g>
+  <g fill="none" stroke="#f0dcc0" stroke-width="3" opacity=".42">
+    <path d="M133 610 292 560l112 50 168-85 171 59 166-92 174 57 162-79"/>
+    <path d="M130 674 293 624l102 47 177-72 173 51 157-84 165 52 177-71"/>
+  </g>
+  <g transform="translate(622 215)">
+    <circle cx="180" cy="156" r="106" fill="#102633" opacity=".38"/>
+    <rect x="117" y="118" width="126" height="74" rx="18" fill="#d8edf6"/>
+    <rect x="148" y="78" width="64" height="52" rx="14" fill="#8dc0d5"/>
+    <circle cx="124" cy="102" r="34" fill="none" stroke="#d8edf6" stroke-width="14"/>
+    <circle cx="236" cy="102" r="34" fill="none" stroke="#d8edf6" stroke-width="14"/>
+    <circle cx="100" cy="219" r="34" fill="none" stroke="#d8edf6" stroke-width="14"/>
+    <circle cx="260" cy="219" r="34" fill="none" stroke="#d8edf6" stroke-width="14"/>
+    <path d="M72 110 22 76M289 109l49-32M78 214 18 247M282 214l58 37" stroke="#d8edf6" stroke-width="11" stroke-linecap="round"/>
+    <path d="M180 192v85" stroke="#73143a" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="180" cy="286" r="16" fill="#73143a"/>
+  </g>
+  <g transform="translate(1090 194)">
+    <rect width="312" height="248" rx="28" fill="#102633" opacity=".58"/>
+    <path d="M42 71h146" stroke="#d8edf6" stroke-width="6"/>
+    <path d="M42 104h220" stroke="#d8edf6" stroke-width="4" opacity=".52"/>
+    <rect x="42" y="136" width="90" height="58" rx="14" fill="#73143a"/>
+    <rect x="148" y="136" width="122" height="58" rx="14" fill="#8dc0d5"/>
+    <path d="M42 214h228" stroke="#d8edf6" stroke-width="4" opacity=".45"/>
+  </g>
+  <g transform="translate(260 185)" fill="#d8edf6" opacity=".62">
+    <circle cx="0" cy="0" r="4"/>
+    <circle cx="58" cy="42" r="4"/>
+    <circle cx="18" cy="86" r="4"/>
+    <circle cx="115" cy="24" r="4"/>
+  </g>
+</svg>

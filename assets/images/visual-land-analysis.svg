@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">Arazi ve arsa danışmanlık görseli</title>
+  <desc id="desc">Parsel analizi, yatırım kartları ve değerlendirme grafikleri içeren illüstrasyon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f3efe6"/>
+      <stop offset="100%" stop-color="#d9e8ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="680" rx="36" fill="url(#bg)"/>
+  <rect x="54" y="74" width="478" height="532" rx="28" fill="#fff" stroke="#d7e0e7" stroke-width="6"/>
+  <g fill="none" stroke="#9ab8c9" stroke-width="4">
+    <path d="M94 142h398M94 224h398M94 306h398M94 388h398M94 470h398M94 552h398"/>
+    <path d="M162 110v470M250 110v470M338 110v470M426 110v470"/>
+  </g>
+  <g fill="#d8b889" opacity=".85">
+    <path d="M94 142h156v164H94z"/>
+    <path d="M250 224h176v164H250z"/>
+    <path d="M162 388h176v164H162z"/>
+  </g>
+  <g fill="#82aebe" opacity=".85">
+    <path d="M250 142h176v82H250z"/>
+    <path d="M94 306h156v164H94z"/>
+    <path d="M338 388h154v164H338z"/>
+  </g>
+  <g transform="translate(576 104)">
+    <rect width="258" height="154" rx="24" fill="#173446"/>
+    <path d="M32 46h116" stroke="#dcecf6" stroke-width="6"/>
+    <path d="M32 82h182" stroke="#dcecf6" stroke-width="5" opacity=".58"/>
+    <rect x="32" y="108" width="88" height="22" rx="11" fill="#73143a"/>
+  </g>
+  <g transform="translate(576 294)">
+    <rect width="258" height="218" rx="24" fill="#fff" stroke="#d7e0e7" stroke-width="6"/>
+    <path d="M40 154 98 108l58 28 56-68 16 14" fill="none" stroke="#73143a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 48h128" stroke="#27475b" stroke-width="7"/>
+    <path d="M40 80h178" stroke="#7d96a3" stroke-width="5"/>
+    <path d="M40 180h184" stroke="#b58f56" stroke-width="7"/>
+  </g>
+</svg>

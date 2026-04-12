@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">Teklif formu görseli</title>
+  <desc id="desc">Teklif formu, saha krokisi ve kontrol listesi içeren teknik görsel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f3efe6"/>
+      <stop offset="100%" stop-color="#d9e8ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="680" rx="36" fill="url(#bg)"/>
+  <g transform="translate(86 70)">
+    <rect width="398" height="540" rx="30" fill="#fff" stroke="#d7e0e7" stroke-width="6"/>
+    <rect x="118" y="-24" width="162" height="66" rx="18" fill="#173446"/>
+    <path d="M62 108h272M62 170h272M62 232h218M62 294h242" stroke="#7e97a5" stroke-width="8" stroke-linecap="round"/>
+    <path d="M62 372 122 432l72-92" fill="none" stroke="#73143a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M230 416h110" stroke="#b58f56" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(556 134)">
+    <rect width="238" height="176" rx="24" fill="#173446"/>
+    <path d="M32 48h118" stroke="#dcecf6" stroke-width="6"/>
+    <path d="M32 82h172" stroke="#dcecf6" stroke-width="5" opacity=".55"/>
+    <rect x="32" y="108" width="78" height="22" rx="11" fill="#73143a"/>
+  </g>
+  <g transform="translate(536 350)">
+    <rect width="268" height="176" rx="24" fill="#fff" stroke="#d7e0e7" stroke-width="6"/>
+    <path d="M34 126 96 78l64 28 72-62" fill="none" stroke="#73143a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34 48h136" stroke="#27475b" stroke-width="7"/>
+    <path d="M34 82h188" stroke="#7e97a5" stroke-width="5"/>
+  </g>
+</svg>
